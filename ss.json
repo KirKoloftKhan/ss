@@ -1,1762 +1,2091 @@
-[
-  {
-    "remarks": "Albania 🇦🇱",
-	"flag" : "AL",
-    "server": "31.171.152.197",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "remarks": "Austria 🇦🇹",
-	"flag" : "AT",
-    "server": "37.120.212.131",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Belgium 🇧🇪",
-	"flag" : "BE",
-    "server": "37.120.218.29",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Bosnia & Herzegovina 🇧🇦",
-	"flag" : "BA",
-    "server": "185.99.3.205",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Bulgaria 🇧🇬",
-	"flag" : "BG",
-    "server": "217.138.202.21",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Croatia 🇭🇷",
-	"flag" : "HR",
-    "server": "89.164.99.111",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Cyprus 🇨🇾",
-	"flag" : "CY",
-    "server": "195.47.194.42",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Czech Republic 🇨🇿",
-	"flag" : "CZ",
-    "server": "185.152.64.151",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Denmark 🇩🇰",
-	"flag" : "DK",
-    "server": "37.120.194.125",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Estonia 🇪🇪",
-	"flag" : "EE",
-    "server": "165.231.163.19",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Finland 🇫🇮",
-	"flag" : "FI",
-    "server": "196.244.191.35",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "France 🇫🇷 1",
-	"flag" : "FR",
-    "server": "185.166.84.3",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "France 🇫🇷 2",
-	"flag" : "FR",
-    "server": "84.17.43.178",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "France 🇫🇷 3",
-	"flag" : "FR",
-    "server": "185.108.106.142",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Germany 🇩🇪 1",
-	"flag" : "DE",
-    "server": "62.171.151.180",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Germany 🇩🇪 2",
-	"flag" : "DE",
-    "server": "178.238.231.51",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Germany 🇩🇪 3",
-	"flag" : "DE",
-    "server": "37.120.217.147",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Germany 🇩🇪 4",
-	"flag" : "DE",
-    "server": "185.158.135.38",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Greece 🇬🇷",
-	"flag" : "GR",
-    "server": "194.150.167.42",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Hungary 🇭🇺",
-	"flag" : "HU",
-    "server": "37.120.144.215",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Iceland 🇮🇸",
-	"flag" : "IS",
-    "server": "82.221.128.166",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Ireland 🇮🇪",
-	"flag" : "IE",
-    "server": "185.108.128.183",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Italy 🇮🇹 1",
-	"flag" : "IT",
-    "server": "37.120.207.5",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Italy 🇮🇹 2",
-	"flag" : "IT",
-    "server": "84.17.58.150",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Latvia 🇱🇻",
-	"flag" : "LV",
-    "server": "188.92.78.140",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Luxembourg 🇱🇺",
-	"flag" : "LU",
-    "server": "185.153.151.104",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Moldova 🇲🇩",
-	"flag" : "MD",
-    "server": "178.175.128.235",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Netherlands 🇳🇱",
-	"flag" : "NL",
-    "server": "81.19.209.100",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Macedonia 🇲🇰",
-	"flag" : "MK",
-    "server": "185.225.28.91",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Norway 🇳🇴",
-	"flag" : "NO",
-    "server": "84.247.50.29",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Poland 🇵🇱 1",
-	"flag" : "PL",
-    "server": "185.246.208.182",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Poland 🇵🇱 2",
-	"flag" : "PL",
-    "server": "5.187.49.187",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Portugal 🇵🇹 1",
-	"flag" : "PT",
-    "server": "5.154.174.75",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },    
-    {
-    "remarks": "Portugal 🇵🇹 2",
-	"flag" : "PT",
-    "server": "5.154.174.77",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },    
-    {
-    "remarks": "Portugal 🇵🇹 3",
-	"flag" : "PT",
-    "server": "194.39.127.240",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Romania 🇷🇴",
-	"flag" : "RO",
-    "server": "86.106.137.147",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Russia 🇷🇺 1",
-	"flag" : "RU",
-    "server": "213.183.56.160",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Russia 🇷🇺 2",
-	"flag" : "RU",
-    "server": "188.92.78.208",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Serbia 🇷🇸",
-	"flag" : "RS",
-    "server": "152.89.160.211",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Slovakia 🇸🇰",
-	"flag" : "SK",
-    "server": "37.120.221.3",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Slovenia 🇸🇮",
-	"flag" : "SI",
-    "server": "195.158.249.42",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Spain 🇪🇸 1",
-	"flag" : "ES",
-    "server": "37.120.142.181",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Spain 🇪🇸 2",
-	"flag" : "ES",
-    "server": "89.37.95.19",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Spain 🇪🇸 3",
-	"flag" : "ES",
-    "server": "87.239.254.20",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Sweden 🇸🇪",
-	"flag" : "SE",
-    "server": "185.76.9.44",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Switzerland 🇨🇭",
-	"flag" : "CH",
-    "server": "84.17.53.210",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Turkey 🇹🇷 1",
-	"flag" : "TR",
-    "server": "107.150.95.163",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Ukraine 🇺🇦",
-	"flag" : "UA",
-    "server": "45.9.238.47",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "United Kingdom 🇬🇧 1",
-	"flag" : "GB",
-    "server": "5.226.139.65",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United Kingdom 🇬🇧 2",
-	"flag" : "GB",
-    "server": "185.108.105.18",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United Kingdom 🇬🇧 3",
-	"flag" : "GB",
-    "server": "185.108.105.57",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Argentina 🇦🇷",
-	"flag" : "AR",
-    "server": "91.206.168.19",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Brazil 🇧🇷",
-	"flag" : "BR",
-    "server": "191.96.73.226",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Canada 🇨🇦 1",
-	"flag" : "CA",
-    "server": "172.98.82.229",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Canada 🇨🇦 2",
-	"flag" : "CA",
-    "server": "66.115.147.82",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Canada 🇨🇦 3",
-	"flag" : "CA",
-    "server": "66.115.147.94",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Chile 🇨🇱",
-	"flag" : "CL",
-    "server": "31.169.121.5",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Colombia 🇨🇴",
-	"flag" : "CO",
-    "server": "45.129.32.27",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Costa Rica 🇨🇷",
-	"flag" : "CR",
-    "server": "176.227.241.24",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Mexico 🇲🇽",
-	"flag" : "MX",
-    "server": "194.41.112.5",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Paraguay 🇵🇾",
-	"flag" : "PY",
-    "server": "181.40.18.47",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "United States 🇺🇸 1",
-	"flag" : "US",
-    "server": "154.16.169.3",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 2",
-	"flag" : "US",
-    "server": "173.237.207.21",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 3",
-	"flag" : "US",
-    "server": "107.175.104.82",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 4",
-	"flag" : "US",
-    "server": "98.142.220.35",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 5",
-	"flag" : "US",
-    "server": "84.17.41.73",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 6",
-	"flag" : "US",
-    "server": "74.119.146.119",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 7",
-	"flag" : "US",
-    "server": "192.154.255.54",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 8",
-	"flag" : "US",
-    "server": "74.119.146.117",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 9",
-	"flag" : "US",
-    "server": "45.43.14.95",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 10",
-	"flag" : "US",
-    "server": "63.141.248.179",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 11",
-	"flag" : "US",
-    "server": "207.244.67.147",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 12",
-	"flag" : "US",
-    "server": "63.141.248.181",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 13",
-	"flag" : "US",
-    "server": "212.102.44.98",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 14",
-	"flag" : "US",
-    "server": "198.147.22.211",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 15",
-	"flag" : "US",
-    "server": "66.115.175.37",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 16",
-	"flag" : "US",
-    "server": "66.115.177.156",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 17",
-	"flag" : "US",
-    "server": "212.102.40.81",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 18",
-	"flag" : "US",
-    "server": "198.147.22.133",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 19",
-	"flag" : "US",
-    "server": "45.43.14.83",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 20",
-	"flag" : "US",
-    "server": "66.115.154.133",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 21",
-	"flag" : "US",
-    "server": "45.89.173.203",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 22",
-	"flag" : "US",
-    "server": "184.170.243.197",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 23",
-	"flag" : "US",
-    "server": "199.10.64.69",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "United States 🇺🇸 24",
-	"flag" : "US",
-    "server": "185.124.240.157",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Australia 🇦🇺 1",
-	"flag" : "AU",
-    "server": "45.248.78.45",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Australia 🇦🇺 2",
-	"flag" : "AU",
-    "server": "45.248.79.69",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Australia 🇦🇺 3",
-	"flag" : "AU",
-    "server": "144.48.39.131",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Australia 🇦🇺 4",
-	"flag" : "AU",
-    "server": "144.48.38.179",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "Australia 🇦🇺 5",
-	"flag" : "AU",
-    "server": "45.125.247.45",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Hong Kong 🇭🇰",
-	"flag" : "HK",
-    "server": "84.17.37.156",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "India 🇮🇳 1",
-	"flag" : "IN",
-    "server": "137.59.52.109",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "India 🇮🇳 2",
-	"flag" : "IN",
-    "server": "103.156.50.95",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-      {
-    "remarks": "India 🇮🇳 3",
-	"flag" : "IN",
-    "server": "103.94.27.229",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Indonesia 🇮🇩",
-	"flag" : "ID",
-    "server": "103.120.66.214",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Kazakhstan 🇰🇿",
-	"flag" : "KZ",
-    "server": "95.57.207.202",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Malaysia 🇲🇾",
-	"flag" : "MY",
-    "server": "42.0.30.211",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "New Zealand 🇳🇿",
-	"flag" : "NZ",
-    "server": "180.149.231.117",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Philippines 🇵🇭",
-	"flag" : "PH",
-    "server": "45.134.224.5",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Singapore 🇸🇬",
-	"flag" : "SG",
-    "server": "89.187.163.200",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "South Korea 🇰🇷",
-	"flag" : "KR",
-    "server": "61.14.210.237",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Taiwan 🇹🇼",
-	"flag" : "TW",
-    "server": "103.98.75.71",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Thailand 🇹🇭",
-	"flag" : "TH",
-    "server": "103.253.74.3",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Vietnam 🇻🇳",
-	"flag" : "VN",
-    "server": "202.143.111.213",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Israel 🇮🇱",
-	"flag" : "IL",
-    "server": "87.239.255.111",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Libya 🇱🇾",
-	"flag" : "LY",
-    "server": "41.208.72.157",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Nigeria 🇳🇬",
-	"flag" : "NG",
-    "server": "102.165.23.4",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "South Africa 🇿🇦",
-	"flag" : "ZA",
-    "server": "154.127.49.228",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "Turkey 🇹🇷 2",
-	"flag" : "TR",
-    "server": "185.195.79.3",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-    {
-    "remarks": "United Arab Emirates 🇦🇪",
-	"flag" : "AE",
-    "server": "45.9.250.103",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "route": "all",
-    "remote_dns": "94.140.14.14",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  ]
+
+    [
+{
+      "server": "194.110.115.93",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "BE 🇧🇪 Brussels 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "91.90.123.155",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "BE 🇧🇪 Brussels 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.110.115.85",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "BE 🇧🇪 Brussels 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "91.90.123.163",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "BE 🇧🇪 Brussels 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.166.84.63",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Marseille 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.166.84.83",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Marseille 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.166.84.57",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Marseille 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.166.84.55",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Marseille 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "143.244.57.103",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Paris 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "143.244.57.68",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Paris 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "143.244.57.117",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Paris 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.108.106.102",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Paris 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.108.106.180",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Bordeaux 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.166.84.29",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Bordeaux 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.166.84.95",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Bordeaux 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.166.84.77",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FR 🇫🇷 Bordeaux 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "144.91.123.52",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Nuernberg 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "62.171.151.158",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Nuernberg 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "62.171.151.160",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Nuernberg 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "144.91.123.52",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Nuernberg 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "178.238.231.55",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Munich 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "79.143.191.139",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Munich 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "79.143.191.231",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Munich 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "79.143.191.141",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Munich 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "193.29.106.51",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Berlin 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "193.29.106.117",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Berlin 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "193.29.106.85",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Berlin 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "193.29.106.195",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Berlin 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "156.146.33.67",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Frankfurt am Main 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "195.181.174.228",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Frankfurt am Main 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "156.146.33.71",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Frankfurt am Main 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "156.146.33.83",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DE 🇩🇪 Frankfurt am Main 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "82.102.26.53",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IT 🇮🇹 Rome 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "37.120.207.115",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IT 🇮🇹 Rome 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "82.102.26.117",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IT 🇮🇹 Rome 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "87.101.94.227",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IT 🇮🇹 Rome 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "84.17.58.148",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IT 🇮🇹 Milan 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.54.150",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IT 🇮🇹 Milan 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.55.68",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IT 🇮🇹 Milan 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.55.68",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IT 🇮🇹 Milan 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "196.244.191.165",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FI 🇫🇮 Helsinki 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "196.244.191.197",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FI 🇫🇮 Helsinki 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "196.244.191.93",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FI 🇫🇮 Helsinki 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "196.244.191.43",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "FI 🇫🇮 Helsinki 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "81.19.209.59",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "NL 🇳🇱 Amsterdam 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "81.19.208.78",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "NL 🇳🇱 Amsterdam 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.35.214",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "NL 🇳🇱 Amsterdam 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.35.206",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "NL 🇳🇱 Amsterdam 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.12.222.243",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CH 🇨🇭 Zurich 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "37.120.213.7",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CH 🇨🇭 Zurich 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "37.120.213.5",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CH 🇨🇭 Zurich 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "37.120.213.3",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CH 🇨🇭 Zurich 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "195.206.169.203",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 London 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.141.206.250",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 London 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "81.19.214.63",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 London 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.34.99.83",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 London 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.108.105.186",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 Glasgow 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.108.105.55",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 Glasgow 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.108.105.13",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 Glasgow 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.108.105.147",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 Glasgow 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.37.98.219",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 Manchester 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "84.39.114.86",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 Manchester 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.37.98.37",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 Manchester 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.238.141.197",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GB 🇬🇧 Manchester 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "154.16.169.3",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Latham 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.43.19.74",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Latham 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.43.19.68",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Latham 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.43.19.84",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Latham 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "173.237.207.38",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Boston 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "173.237.207.32",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Boston 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "173.237.207.56",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Boston 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "173.237.207.42",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Boston 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "107.175.104.86",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Buffalo 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "64.44.42.194",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Buffalo 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "107.175.104.82",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Buffalo 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "172.93.153.146",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Buffalo 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "138.199.40.179",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 New York 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "172.98.75.35",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 New York 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.187.177.122",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 New York 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "98.142.220.37",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 New York 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "104.200.129.245",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Seattle 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "198.8.80.85",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Seattle 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "84.17.41.81",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Seattle 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.46.65",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Seattle 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "138.199.42.151",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Chicago 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "138.199.42.161",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Chicago 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "184.170.250.154",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Chicago 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "138.199.42.163",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Chicago 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "104.244.208.203",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Detroit 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "104.244.210.125",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Detroit 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "104.244.210.139",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Detroit 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "104.244.210.115",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Detroit 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.44.98",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Denver 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.44.96",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Denver 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.44.66",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Denver 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.44.91",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Denver 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.43.14.103",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Bend 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "154.16.168.184",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Bend 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.43.14.83",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Bend 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "154.16.168.188",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Bend 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "173.208.149.197",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Kansas City 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "63.141.236.245",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Kansas City 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "69.30.249.125",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Kansas City 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "63.141.248.181",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Kansas City 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "207.244.84.42",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Manassas 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "23.105.160.138",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Manassas 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "23.105.163.109",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Manassas 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "23.105.163.80",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Manassas 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "104.200.131.172",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Salt Lake City 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "104.200.131.229",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Salt Lake City 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "104.200.131.245",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Salt Lake City 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "104.200.131.233",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Salt Lake City 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "148.72.174.46",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 St. Louis 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "148.72.174.38",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 St. Louis 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "148.72.174.41",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 St. Louis 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "148.72.169.211",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 St. Louis 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "209.216.92.3",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Tampa 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "209.216.92.202",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Tampa 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "209.216.92.200",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Tampa 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "209.216.92.222",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Tampa 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "91.219.214.11",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Miami 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.38.227.165",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Miami 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.38.227.173",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Miami 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.87.214.253",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Miami 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "154.16.171.215",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Charlotte 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "155.254.29.165",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Charlotte 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "192.154.255.52",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Charlotte 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "155.254.31.184",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Charlotte 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "66.115.177.146",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Dallas 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "66.115.177.133",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Dallas 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.102.40.66",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Dallas 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.187.175.167",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Dallas 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "199.58.187.3",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Phoenix 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "199.58.187.15",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Phoenix 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "184.170.240.179",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Phoenix 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "23.83.128.233",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Phoenix 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "66.115.154.131",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Atlanta 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "66.115.175.50",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Atlanta 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "66.115.166.149",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Atlanta 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "195.181.171.231",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Atlanta 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "66.115.182.101",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Orlando 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "198.147.22.163",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Orlando 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "198.147.22.167",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Orlando 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "66.115.182.79",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Orlando 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.242.5.215",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Las Vegas 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "79.110.54.117",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Las Vegas 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "79.110.54.131",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Las Vegas 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "79.110.54.91",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Las Vegas 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.103.49.151",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Los Angeles 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "184.170.243.197",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Los Angeles 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "184.170.243.199",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Los Angeles 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "212.103.49.147",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Los Angeles 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "199.10.64.69",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Houston 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "104.148.30.53",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Houston 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "199.10.64.101",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Houston 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "104.148.30.85",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 Houston 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.124.240.157",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 San Francisco 1",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.124.240.159",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 San Francisco 2",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "209.58.128.48",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 San Francisco 3",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.124.240.147",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "US 🇺🇸 San Francisco 4",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "107.150.95.149",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "TR 🇹🇷 Istanbul",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.195.79.21",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "TR 🇹🇷 Bursa",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "31.171.153.133",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "AL 🇦🇱 Tirana",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "37.120.212.77",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "AT 🇦🇹 Vienna",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.99.3.207",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "BA 🇧🇦 Sarajevo",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "217.138.202.19",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "BG 🇧🇬 Sofia",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "176.222.34.121",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "HR 🇭🇷 Zagreb",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "195.47.194.42",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CY 🇨🇾 Nicosia",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.180.14.149",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CZ 🇨🇿 Prague",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "193.29.107.187",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "DK 🇩🇰 Copenhagen",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.174.159.59",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "EE 🇪🇪 Tallinn",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.150.167.30",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "GR 🇬🇷 Athens",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "37.120.144.147",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "HU 🇭🇺 Budapest",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.133.193.221",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IS 🇮🇸 Reykjavik",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "23.92.127.91",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IE 🇮🇪 Dublin",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "188.92.78.135",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "LV 🇱🇻 Riga",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.153.151.96",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "LU 🇱🇺 Luxembourg",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "178.175.128.235",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "MD 🇲🇩 Chisinau",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.225.28.85",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "MK 🇲🇰 Skopje",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "91.219.215.21",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "NO 🇳🇴 Oslo",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "84.17.55.132",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "PL 🇵🇱 Warsaw",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "178.255.44.69",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "PL 🇵🇱 Gdansk",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "91.205.230.164",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "PT 🇵🇹 Lisbon",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "176.61.146.97",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "PT 🇵🇹 Loule",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.39.127.36",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "PT 🇵🇹 Porto",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.102.217.159",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "RO 🇷🇴 Bucharest",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "92.38.138.53",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "RU 🇷🇺 Moscow",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "188.92.78.203",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "RU 🇷🇺 St. Petersburg",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "152.89.160.115",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "RS 🇷🇸 Belgrade",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.76.8.212",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "SK 🇸🇰 Bratislava",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "195.158.249.46",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "SI 🇸🇮 Ljubljana",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.188.61.25",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "ES 🇪🇸 Barcelona",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "37.120.148.229",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "ES 🇪🇸 Madrid",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.153.150.50",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "ES 🇪🇸 Valencia",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "185.76.9.51",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "SE 🇸🇪 Stockholm",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.9.238.47",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "UA 🇺🇦 Kyiv",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "91.206.168.19",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "AR 🇦🇷 Buenos Aires",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "191.96.13.212",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "BR 🇧🇷 Sao Paulo",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "91.245.254.67",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CA 🇨🇦 Montreal",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "68.71.244.208",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CA 🇨🇦 Toronto",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "172.83.40.147",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CA 🇨🇦 Vancouver",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "31.169.121.3",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CL 🇨🇱 Santiago",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.129.32.34",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CO 🇨🇴 Bogota",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "176.222.34.115",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "CR 🇨🇷 San Jose",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "194.41.112.9",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "MX 🇲🇽 Mexico City",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "181.40.18.47",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "PY 🇵🇾 Asunción",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "124.150.139.29",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "AU 🇦🇺 Perth",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.248.79.69",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "AU 🇦🇺 Adelaide",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "144.48.39.131",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "AU 🇦🇺 Brisbane",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "144.48.38.179",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "AU 🇦🇺 Melbourne",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "180.149.228.27",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "AU 🇦🇺 Sydney",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "62.212.239.53",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "AZ 🇦🇿 Baku",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "84.17.37.160",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "HK 🇭🇰 Hong Kong",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "137.59.52.109",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IN 🇮🇳 Indore",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "103.156.50.95",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IN 🇮🇳 Mumbai",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "103.94.27.229",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IN 🇮🇳 Chennai",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "103.120.66.219",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "ID 🇮🇩 Jakarta",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "89.187.161.2",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "JP 🇯🇵 Tokyo",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "5.189.202.11",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "KZ 🇰🇿 Oral",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "42.0.30.164",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "My 🇲🇾 Kuala Lumpur",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "180.149.231.43",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "Nz 🇳🇿 Auckland",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "45.134.224.5",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": " PH 🇵🇭 Manila",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "156.146.56.137",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "SG 🇸🇬 Singapore",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "27.255.77.195",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "KR 🇰🇷 Seoul",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "103.152.151.85",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "TW 🇹🇼 Taichung City",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "27.131.138.176",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "TH 🇹🇭 Bangkok",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "202.143.110.32",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "VN 🇻🇳 Ho Chi Minh City",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "87.239.255.121",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "IL 🇮🇱 Tel Aviv",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "41.208.72.157",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "LY 🇱🇾 Tripoli",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "102.165.23.4",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "NG 🇳🇬 Lagos",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "154.127.50.138",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "ZA 🇿🇦 Johannesburg",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "176.125.231.13",
+      "server_port": 49126,
+      "password": "wrCaGtrUbzeRqQLdc8Kmk3Nd",
+      "method": "aes-256-gcm",
+      "remarks": "AE 🇦🇪 Dubai",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    }
+]
